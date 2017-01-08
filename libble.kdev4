@@ -1,0 +1,4 @@
+[Project]
+Name=libble
+Manager=KDevCMakeManager
+VersionControl=kdevgit
